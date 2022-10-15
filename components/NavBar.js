@@ -27,7 +27,7 @@ export default function Navbar(){
             borderRadius: 200,
             position: 'absolute',
             boxShadow: "1px 3px 3px #333",
-            }}  src="/images/eu.png" /> 
+            }}  src="/images/perfil.png" /> 
 
             <h1 title='Anderson David'>Anderson David</h1>
             <p title='Front-End Developer & UX/UI Designer'>Front-End Developer & UX/UI Designer</p>
