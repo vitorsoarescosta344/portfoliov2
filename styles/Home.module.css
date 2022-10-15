@@ -1,0 +1,67 @@
+.card{
+  margin-bottom: 70px;
+  
+}
+
+.line{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.line h1{
+  padding: 30px;
+  color: #333;
+}
+
+.line::before {
+  content: " ";
+  background-color: #126DC1;
+  display: block;
+  height: 5px;
+  width: 20%;
+  border-radius: 5px;
+}
+.line::after {
+  content: " ";
+  background-color: #126DC1;
+  display: block;
+  height: 5px;
+  width: 20%;
+  border-radius: 5px;
+
+}
+
+.descricao{
+  width: 600px;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.conhecimentos{
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  flex-wrap: wrap;
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px;
+}
+
+@media screen and (max-width: 800px) {
+
+	.descricao{
+    width: 80%;
+  }
+
+  .conhecimentos{
+    width: 80%;
+    justify-content: center;
+  }
+}
