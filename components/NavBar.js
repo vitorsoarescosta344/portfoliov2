@@ -50,7 +50,7 @@ export default function Navbar(){
                   style={{
                   borderRadius: 4,
                   boxShadow: "2px 3px 3px #333",
-                  }}  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+                  }}  src="https://blog.waalaxy.com/wp-content/uploads/2021/01/Linkedin-Logo-2048x1280.png" /> 
                 </a>
               </Link>
 
