@@ -7,7 +7,7 @@ export default function Layout({ children }){
   return(
     <>
      <Head>
-        <title>Front-end & UX/UI Designer - Anderson David</title>
+        <title>Front-End & UX/UI Designer - Anderson David</title>
         <meta name="description" content="Criação de Landing Pages, Blog, WebSites. UX/UI Designer para aplicações Web, Destktop e Mobile." />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
